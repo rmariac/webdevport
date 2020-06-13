@@ -1,0 +1,51 @@
+.heading {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 120px;
+    color: white;
+    background-color: black;
+}
+#h1a {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 60px;
+}
+#pa {
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.h1c {
+    text-align: center;
+    font-size: 60px;
+}
+.contact {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.submit {
+    padding-left: 65px;
+    padding-right: 65px;
+}
+.h1p {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 1px;
+  }
+.grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: .5px solid rgba(0, 0, 0, 0.8);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 30px;
+    text-align: center;
+  }
+.sectp {
+    background-color: whitesmoke;
+}
